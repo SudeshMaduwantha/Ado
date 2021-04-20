@@ -1,0 +1,128 @@
+*{font-family:calibri;}
+
+.div1{
+	height:40px;
+	background-color:bdbdbd;
+	padding:5px;
+}
+
+.cover_photo_divition{
+	position:relative;
+	text-align:center;
+}
+.cover_photo_image{width:100%;
+					margin:2.5px;}
+
+.cover_photo_text{
+	position:absolute;
+	top:30%;
+	left:40%;
+	font-size:62px;
+	background-color:white;
+	opacity:0.8;
+	padding:20px;
+	margin:10px;
+
+}
+
+.about_banner_division {
+  position: relative;
+  text-align: center;
+}
+
+.about_us_image{
+  width:100%;
+  margin:2.5px;
+}
+
+.about_text{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size:36px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:50px;
+    padding-right:50px;
+    background-color:white;
+    color:black;
+    font-family:arial;
+  
+}
+
+.gallery_photo_divition{
+	position:relative;
+	text-align:center;
+}
+.gallery_photo{width:100%}
+
+.gallery_photo_text{
+	position:absolute;
+	top:20%;
+	left:45%;
+	color:white;
+	font-size:36px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contact-division{
+  background-color:#bdbdbd;
+  padding:20px;
+}
+
+.form_table{
+  width:500px;
+}
+
+.userinput{
+  width:100%;
+  border-radius:25px;
+  height:30px;
+  margin-right:20px;
+}
+
+.messagebox{
+  width:100%;
+  border-radius:25px;
+  }
+
+.submit_button{
+  background-color:green;
+  color:white;
+  height:30px;
+  border-radius:10px;
+}
+
+.reset_button{
+  background-color:blue;
+  color:white;
+  height:30px;
+  border-radius:10px;
+}
+
+
+
+
+

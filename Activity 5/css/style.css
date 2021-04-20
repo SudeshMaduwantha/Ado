@@ -1,0 +1,78 @@
+.cover_photo_divition{
+	position:relative;
+	text-align:center;
+}
+.cover_photo_image{width:100%;}
+
+.cover_photo_text{
+	position:absolute;
+	top:40%;
+	left:40%;
+	font-size:62px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contact-division{
+  background-color:#bdbdbd;
+  padding:20px;
+}
+
+.form_table{
+  width:500px;
+}
+
+.userinput{
+  width:100%;
+  border-radius:25px;
+  height:30px;
+  margin-right:20px;
+}
+
+.messagebox{
+  width:100%;
+  border-radius:25px;
+  }
+
+.submit_button{
+  background-color:green;
+  color:white;
+  height:30px;
+  border-radius:10px;
+}
+
+.reset_button{
+  background-color:blue;
+  color:white;
+  height:30px;
+  border-radius:10px;
+}
+
+
+
+
+

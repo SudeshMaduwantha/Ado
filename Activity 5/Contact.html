@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Hotel</title>
+    
+    <link rel="stylesheet" href="css/style.css">
+    
+  </head>
+  <body>
+
+    <div class="contact-division" align="center">
+      
+      <h3>Send Message </h3>
+      <form action="data_process.php">
+        
+        <table class="form_table">
+          <tr>
+            <td style="padding-right:20px;">
+              <label for="first_name">First Name :</label><br>
+              <input type="text" name="firstname" id="first_name" class="userinput" >
+            </td>
+            <td>
+              <label for="last_name">Last Name :</label><br>
+              <input type="text" name="last_name" id="last_name" class="userinput" >
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <label for="last_name">E-mail :</label><br>
+              <input type="email" name="email" id="last_name" class="userinput" >
+            </td>
+          </tr>
+          
+          <tr>
+            <td colspan="2">
+              <label for="last_name">Message</label><br>
+              <textarea class="messagebox" rows="10"></textarea>
+            </td>
+          </tr>
+          
+          <tr>
+            <td colspan="2">
+              <input type="submit" name="send" value="Send Message" class="submit_button">
+              <input type="reset" name="reset" value="Rest Form" class="reset_button">
+            </td>
+          </tr>
+        </table>
+        
+       
+        
+        
+      </form>
+        
+    </div>
+    
+    
+  </body>
+</html>
